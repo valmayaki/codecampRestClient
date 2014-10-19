@@ -1,3 +1,4 @@
+
 # Rest Client for Code Camp
 ---
 
@@ -36,3 +37,9 @@
 			 
 		 }
 ```
+
+codecampRestClient
+
+
+RestClient added multipart httppost, httpput and httpdelete
+
